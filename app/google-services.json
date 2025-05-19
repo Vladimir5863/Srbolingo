@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "764376886367",
+    "project_id": "srbolingo",
+    "storage_bucket": "srbolingo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764376886367:android:ec4b17d22ef59a215e7fea",
+        "android_client_info": {
+          "package_name": "com.example.srbingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgIBjhoHrEBwGDgKyvlJTPapKFTAH9SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764376886367:android:1959386094de1a815e7fea",
+        "android_client_info": {
+          "package_name": "com.example.srbolingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgIBjhoHrEBwGDgKyvlJTPapKFTAH9SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

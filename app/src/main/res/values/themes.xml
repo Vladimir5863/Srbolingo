@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Srbingo" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/md_primary</item>
+        <item name="colorPrimaryVariant">@color/md_primary_variant</item>
+        <item name="colorSecondary">@color/md_secondary</item>
+        <item name="colorSecondaryVariant">@color/md_secondary_variant</item>
+        <item name="colorOnPrimary">@color/md_on_primary</item>
+        <item name="colorOnSecondary">@color/md_on_secondary</item>
+        <item name="android:windowBackground">@color/md_background</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="fontFamily">sans-serif</item>
+        <item name="materialCardViewStyle">@style/Widget.Srbingo.CardView</item>
+    </style>
+
+    <style name="Theme.Srbingo" parent="Base.Theme.Srbingo" />
+
+    <style name="Widget.Srbingo.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardBackgroundColor">@color/purple_card</item>
+    </style>
+</resources>

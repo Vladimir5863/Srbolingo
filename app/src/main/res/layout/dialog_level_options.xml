@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/dialogTitleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="24dp"
+        android:textColor="@color/white"
+        android:text="@string/select_mode"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/textModeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:padding="16dp"
+        android:backgroundTint="@color/white"
+        android:text="@string/text_mode"
+        android:textColor="@color/black"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/practiceButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:backgroundTint="@color/white"
+        android:text="@string/practice_mode"
+        android:textColor="@color/black"/>
+
+</LinearLayout> 

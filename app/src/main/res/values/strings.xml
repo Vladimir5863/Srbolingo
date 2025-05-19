@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Srbolingo</string>
+    <string name="select_level">Izaberi Nivo</string>
+    <string name="complete_level">Završi nivo %d da nastaviš</string>
+    <string name="text_mode">Test</string>
+    <string name="practice_mode">Vežbanje</string>
+    <string name="select_mode">Izaberi Mod</string>
+    <string name="finish">Završi</string>
+    <string name="score">Rezultat: %d/10</string>
+    <string name="question_number">Pitanje %d/10</string>
+    <string name="level_locked">Završi prethodni nivo prvo!</string>
+    <string name="loading">Učitavanje...</string>
+    <string name="no_questions">Nema dostupnih pitanja</string>
+    <string name="error_loading">Greška pri učitavanju: %s</string>
+    <string name="select_question_count">Izaberi broj pitanja</string>
+    <string name="start">Počni</string>
+    <string name="question_number_total">Pitanje %1$d/%2$d</string>
+    <string name="practice_score">Rezultat: %1$d/%2$d</string>
+    <string name="correct_answer">Tačno!</string>
+    <string name="wrong_answer">Netačno! Tačan odgovor je: %s</string>
+    <string name="start_practice">Pocetak vezbe</string>
+    <string name="current_level_xp">Nivo %1$d - XP: %2$d</string>
+    <string name="level_up">Čestitamo! Dostigli ste nivo %d!</string>
+    <string name="review_answers">Pregled odgovora</string>
+</resources>
